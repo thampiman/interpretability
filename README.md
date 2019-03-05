@@ -1,6 +1,6 @@
 # Interpretable AI
 
-A repository for all things interpretability. The code here was written to support my blog post on this topic.
+A repository for all things interpretability. The code here was written to support my [blog post](https://towardsdatascience.com/interpretable-ai-or-how-i-learned-to-stop-worrying-and-trust-ai-e61f9e8ee2c2) on this topic.
 
 ## Additional Resources
 
