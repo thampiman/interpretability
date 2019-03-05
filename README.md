@@ -46,6 +46,7 @@ A repository for all things interpretability. The code in this repo was written 
 - [Predictive Learning via Rule Ensembles (RuleFit) (2005)](http://statweb.stanford.edu/~jhf/ftp/RuleFit.pdf)
 - [Ethics and AI](http://cgis.cs.umd.edu/class/fall2012/cmsc828d/oldreportfiles/schulze1.pdf)
 - [Building Ethics into AI (2018)](https://www.ijcai.org/proceedings/2018/0779.pdf)
+- [Deep kNN: Towards Confident, Interpretable and Robust Deep Learning (2018)](https://arxiv.org/pdf/1803.04765.pdf)
 
 ### Blogs
 

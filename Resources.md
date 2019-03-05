@@ -20,7 +20,7 @@
 - [Trouble with Bias: Talk by Kate Crawford at NeurIPS 2017](https://www.youtube.com/watch?v=fMym_BKWQzk)
 - [Bias Traps in AI: Panel Discussion at AI Now 2017](https://www.youtube.com/watch?v=JiWRnkMyAsc)
 
-## Research Papers
+### Research Papers
 
 - [The Mythos of Model Interpretability (2017)](https://arxiv.org/pdf/1606.03490.pdf)
 - [Survey of Methods for Explaining Black Box Models (2018)](https://arxiv.org/pdf/1802.01933.pdf)
@@ -42,6 +42,7 @@
 - [Predictive Learning via Rule Ensembles (RuleFit) (2005)](http://statweb.stanford.edu/~jhf/ftp/RuleFit.pdf)
 - [Ethics and AI](http://cgis.cs.umd.edu/class/fall2012/cmsc828d/oldreportfiles/schulze1.pdf)
 - [Building Ethics into AI (2018)](https://www.ijcai.org/proceedings/2018/0779.pdf)
+- [Deep kNN: Towards Confident, Interpretable and Robust Deep Learning (2018)](https://arxiv.org/pdf/1803.04765.pdf)
 
 ## Blogs
 
