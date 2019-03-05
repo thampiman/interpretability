@@ -1,6 +1,10 @@
-# Additional Resources
+# Interpretable AI
 
-## Examples of AI Propagating Bias
+A repository for all things interpretability. The code here was written to support my blog post on this topic.
+
+## Additional Resources
+
+### Examples of AI Propagating Bias
 
 - Criminal Justice 
   - COMPAS
@@ -20,7 +24,7 @@
 - [Trouble with Bias: Talk by Kate Crawford at NeurIPS 2017](https://www.youtube.com/watch?v=fMym_BKWQzk)
 - [Bias Traps in AI: Panel Discussion at AI Now 2017](https://www.youtube.com/watch?v=JiWRnkMyAsc)
 
-## Research Papers
+### Research Papers
 
 - [The Mythos of Model Interpretability (2017)](https://arxiv.org/pdf/1606.03490.pdf)
 - [Survey of Methods for Explaining Black Box Models (2018)](https://arxiv.org/pdf/1802.01933.pdf)
@@ -43,7 +47,7 @@
 - [Ethics and AI](http://cgis.cs.umd.edu/class/fall2012/cmsc828d/oldreportfiles/schulze1.pdf)
 - [Building Ethics into AI (2018)](https://www.ijcai.org/proceedings/2018/0779.pdf)
 
-## Blogs
+### Blogs
 
 - [The Inescapability of Uncertainty](https://points.datasociety.net/uncertainty-edd5caf8981b)
 - [Demystifying black box models](https://medium.com/civis-analytics/demystifying-black-box-models-with-shap-value-analysis-3e20b536fc80)
@@ -52,11 +56,11 @@
 - [Visualising high dimensional data using PCA and t-SNE](https://medium.com/@luckylwk/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
 - [Use t-SNE to visualise how your model thinks](https://buzzrobot.com/using-t-sne-to-visualise-how-your-deep-model-thinks-4ba6da0c63a0)
 
-## Books
+### Books
 
 - [Interpretable Machine Learning by Christoph Molnar (2018)](https://christophm.github.io/interpretable-ml-book/limo.html)
 
-## Videos
+### Videos
 
 - [Bias Traps in AI | AI Now 2017](https://www.youtube.com/watch?v=JiWRnkMyAsc)
 - [Policing Digital Traces | Sarah Brayne](https://www.youtube.com/watch?v=AnZ-YpIagXs&index=13&list=PLsHf1QGJz7uvFMIYj6oxwKXfIRzNpyzPe)
