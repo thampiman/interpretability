@@ -63,4 +63,4 @@
 - [Policing Digital Traces | Sarah Brayne](https://www.youtube.com/watch?v=AnZ-YpIagXs&index=13&list=PLsHf1QGJz7uvFMIYj6oxwKXfIRzNpyzPe)
 - [How I'm fighting bias in algorithms | Joy Buolamwini](https://www.ted.com/talks/joy_buolamwini_how_i_m_fighting_bias_in_algorithms)
 - [The Trouble with Bias | Kate Crawford](https://www.youtube.com/watch?v=fMym_BKWQzk)
-- [Programming your way to Explainable AI | Mark Hammond](https://www.youtube.com/watch?v=fMym_BKWQzk)
+- [Programming your way to Explainable AI | Mark Hammond](https://www.youtube.com/watch?v=Um7grgYdBQQ)
